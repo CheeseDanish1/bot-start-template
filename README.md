@@ -1,6 +1,7 @@
 # Before you start
-Make sure you have nodejs installed, you can check if you do by opening up the command terminal and typing `node -v` if it gives you and error, go to https://nodejs.org/en/ and download nodejs from there
+Make sure you have nodejs installed, you can check if you do by opening up the command terminal and typing `node -v` if it gives you an error, you can download it [here](https://nodejs.org/en/)
 
+Also make sure you have git-bash installed so you can run the command `git clone` if you don't have it installed you can install it [here](https://git-scm.com/downloads)
 
 # Instructions
 
