@@ -1,3 +1,7 @@
+# Before you start
+Make sure you have nodejs installed, you can check if you do by opening up the command terminal and typing `node -v` if it gives you and error, go to https://nodejs.org/en/ and download nodejs from there
+
+
 # Instructions
 
 1. Open up the command terminal 
@@ -6,6 +10,10 @@
 4. Put your token and prefix in the config.json file
 5. Run the command `npm init -y`
 6. Run the command `npm i discord.js`
+
+**Then finally, to start the bot you would run the command**
+7. `node bot.js`
+
 
 
 And there you have it, a start to a discord bot, complete with a command handler
