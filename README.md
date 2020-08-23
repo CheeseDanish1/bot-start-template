@@ -7,7 +7,7 @@ Also make sure you have git-bash installed so you can run the command `git clone
 
 1. Open up the command terminal 
 2. cd to the location you want to put this folder
-3. Run the command `git clone https://github.com/CheeseDanish1/bot--start-template.git`
+3. Run the command `git clone https://github.com/CheeseDanish1/bot-start-template.git`
 4. Put your token and prefix in the config.json file
 5. Run the command `npm init -y`
 6. Run the command `npm i discord.js`
@@ -46,3 +46,7 @@ module.exports = (client, member) => {
 
 
 I think that is it. If you have any problems, you can bring it up in the issues section
+
+git add .
+git commit -m "First commit"
+git push origin master
