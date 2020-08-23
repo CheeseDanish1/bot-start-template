@@ -28,5 +28,12 @@ module.exports = (client, <Event Args>) {
 }
 ```
 
+Just to clarify the above, if you want a `guildMemberAdd` Event you would name the file `guildMemberAdd.js` and the code would look like this
+```js
+module.exports = (client, member) => {
+    //Code here
+}
+```
+
 
 I think that is it. If you have any problems, you can bring it up in the issues section
