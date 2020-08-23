@@ -46,7 +46,3 @@ module.exports = (client, member) => {
 
 
 I think that is it. If you have any problems, you can bring it up in the issues section
-
-git add .
-git commit -m "First commit"
-git push origin master
