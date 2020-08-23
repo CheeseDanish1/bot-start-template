@@ -11,9 +11,7 @@ Also make sure you have git-bash installed so you can run the command `git clone
 4. Put your token and prefix in the config.json file
 5. Run the command `npm init -y`
 6. Run the command `npm i discord.js`
-
-**Then finally, to start the bot you would run the command**
-7. `node bot.js`
+7. **Then finally, to start the bot you would run the command `node bot.js`**
 
 
 
