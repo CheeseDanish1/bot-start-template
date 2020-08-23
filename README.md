@@ -11,7 +11,7 @@ Also make sure you have git-bash installed so you can run the command `git clone
 4. Put your token and prefix in the config.json file
 5. Run the command `npm init -y`
 6. Run the command `npm i discord.js`
-7. **Then finally, to start the bot you would run the command `node bot.js`**
+**Then finally, to start the bot you would run the command `node bot.js`**
 
 
 
@@ -19,16 +19,16 @@ And there you have it, a start to a discord bot, complete with a command handler
 
 # To use
 
-Put commands in the commands folder, name the what you want the command to be. Start the command folder with the code
+Put commands in the commands folder, name them what you want the command to be. Start the file with the following code
 ```js
 module.exports.run = (client, message, args) => {
     //Code Here
 }
 ```
-There is already a basic ping command set up, so you can see what I mean
+There is already a basic ping command set up, so you can use that as reference
 
 
-And for events, you would name the file the event you want to wait for, and start it with this code
+And as for events, you would name the file the event you want to wait for, and start it with this code
 ```js
 module.exports = (client, <Event Args>) {
 
